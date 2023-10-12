@@ -3,7 +3,7 @@ package iniciante;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Beecrow_1002 {
+public class Beecrowd_1002 {
 
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
