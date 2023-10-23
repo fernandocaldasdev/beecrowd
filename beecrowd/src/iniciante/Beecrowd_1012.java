@@ -21,7 +21,7 @@ public class Beecrowd_1012 {
 		 double areaQuadrado = Math.pow(B, 2);
 		 double areaRetangulo = A * B;
 		 
-		 System.out.printf("TRINGULO: %.3f%n", areaTriangulo);
+		 System.out.printf("TRISNGULO: %.3f%n", areaTriangulo);
 		 System.out.printf("CIRCULO: %.3f%n", areaCirculo);
 		 System.out.printf("TRAPEZIO: %.3f%n", areaTrapezio );
 		 System.out.printf("QUADRADO: %.3f%n", areaQuadrado);
