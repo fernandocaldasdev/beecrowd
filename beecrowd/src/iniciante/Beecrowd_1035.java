@@ -22,22 +22,22 @@ public class Beecrowd_1035 {
 						if(a % 2 == 0) {
 							System.out.println("Valores aceitos");
 						} else {
-							System.out.println("Valores não aceitos");
+							System.out.println("Valores nao aceitos");
 						}
 					}else {
-						System.out.println("Valores não aceitos");
+						System.out.println("Valores nao aceitos");
 					}
 				}else {
-					System.out.println("Valores não aceitos");
+					System.out.println("Valores nao aceitos");
 				}
 			}else {
-				System.out.println("Valores não aceitos");
+				System.out.println("Valores nao aceitos");
 			}
 		}else {
-			System.out.println("Valores não aceitos");
+			System.out.println("Valores nao aceitos");
 		}
 		
-
+		sc.close();
 	}
 
 }
